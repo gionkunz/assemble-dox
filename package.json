@@ -2,7 +2,7 @@
   "name": "assemble-dox",
   "title": "Assemble Dox",
   "description": "Generate API documentation with Assemble and Dox",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Gion Kunz",
   "homepage": "https://github.com/gionkunz/assemble-dox",
   "repository": {
