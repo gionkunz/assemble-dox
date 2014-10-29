@@ -17,16 +17,25 @@
     "dox",
     "api documentation"
   ],
+  "files": [
+    "index.js",
+    "dox-helpers.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
   "licenses": [
     {
       "type": "WTFPL",
       "url": "https://github.com/gionkunz/chartist-js/blob/master/LICENSE"
     }
   ],
-  "dependencies": {},
-  "devDependencies": {
-    "assemble": "^0.4.42",
+  "dependencies": {
+    "dox": "^0.5.3",
     "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "assemble": "^0.4.42"
   },
   "engines": {
     "node": ">=0.8.0"
