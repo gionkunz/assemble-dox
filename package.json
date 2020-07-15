@@ -32,7 +32,7 @@
   ],
   "dependencies": {
     "dox": "^0.5.3",
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "assemble": "^0.4.42"
